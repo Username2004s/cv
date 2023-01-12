@@ -8,7 +8,7 @@
   <body>
    <table cellspacing="20">
     <tr>
-	 <td> <img src="https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest/scale-to-width-down/300?cb=20170628120149" alt=kakashi> </td>
+	 <td> <img src="https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest/scale-to-width-down/300?cb=20170628120149" alt="kakashi"> </td>
 	 <td>  <h1>aditya vaishnav</h1>
      <p> <em> fullstack learning web development course </em> </p> 
      <p><a href=https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest/scale-to-width-down/300?cb=20170628120149> nothing else</a> </p>  </td>
